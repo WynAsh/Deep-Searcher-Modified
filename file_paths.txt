@@ -1,0 +1,6 @@
+{
+  "paths": ["/mnt/c/Users/Ashwin/Documents/deep-searcher/STS_Final_Submission.pdf","/mnt/c/Users/Ashwin/Documents/deep-searcher/STS_lectures_compressed.pdf"],
+  "collection_name": "STS_Final_Submission",
+  "collection_description": "This is the final submission for STS course",
+  "batch_size": 256
+}
