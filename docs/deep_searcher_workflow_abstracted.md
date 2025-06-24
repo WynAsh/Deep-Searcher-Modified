@@ -179,3 +179,8 @@ The FAISS vector database handles the efficient storage and retrieval of documen
 ---
 
 This workflow document provides a comprehensive overview of the DeepSearcher system, focusing specifically on the implementation using OpenAI embeddings and the FAISS vector database. The system's modular architecture allows for easy extension and customization while maintaining high performance for document retrieval and question answering tasks.
+
+
+
+
+![alt text](image.png)

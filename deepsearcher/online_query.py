@@ -68,7 +68,7 @@ def naive_retrieve(query: str, collection: str = None, top_k=10) -> List[Retriev
         A list of retrieval results.
     """
     naive_rag = configuration.naive_rag
-    all_retrieved_results, consume_tokens, _ = naive_rag.retrieve(query)
+    all_retrieved_results, consume_tokens, _ = naive_rag.ret    rieve(query)
     return all_retrieved_results
 
 
