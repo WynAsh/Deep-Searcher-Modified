@@ -1,14 +1,7 @@
 name: "Run Docs CD with UV"
 
 on:
-  push:
-    branches:
-      - "main"
-      - "master"
-    paths:
-      - 'docs/**'
-      - 'mkdocs.yml'
-      - '.github/workflows/docs.yml'
+  workflow_dispatch:
 
 jobs:
   build-deploy-docs:
